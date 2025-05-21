@@ -1,7 +1,7 @@
 ## Hey there, I'm Petera ✨ 
 
 🚀 I’m currently working on apps that are user friendly and innovative <br/>
-📚 Software Engineering Student at Saint Leo <br/>
+📚 Bachelors in Software Engineering <br/>
 🌸 Fun fact: I was first introduced to coding in the ninth grade <br/>
 🧸 My coding content can be found at: [Instagram](https://www.instagram.com/she_lovescoding_/)
 
