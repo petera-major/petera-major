@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br><br>Hey there, I'm Petera<br><br>✨ I’m currently working on apps that are user friendly and innovative <br><br>📚 Bachelors in Software Engineering <br><br>🌸 Fun fact: I was first introduced to coding in the ninth grade <br><br>🧸 My coding content can be found at: [Instagram](https://www.instagram.com/she_lovescoding_/)<br><br>
-
+Hey there, I'm Petera<br>✨ I’m currently working on apps that are user friendly and innovative <br>📚 Bachelors in Software Engineering <br>🌸 Fun fact: I was first introduced to coding in the ninth grade <br>🧸 My coding content can be found at: [Instagram](https://www.instagram.com/she_lovescoding_/)<br>
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@oceanxt_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:peteramajor@hotmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Petera-major) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nah_itztera) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nah_itztera) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shelovestocodet)
